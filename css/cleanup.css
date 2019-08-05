@@ -11,3 +11,7 @@
 #wall #tag-3 .slickwicked {
   display: none;
 }
+
+#wall .parent {
+  display: none;
+}
